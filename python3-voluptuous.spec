@@ -5,13 +5,13 @@
 Summary:	Python data validation library
 Summary(pl.UTF-8):	Biblioteka Pythona do sprawdzania poprawności danych
 Name:		python3-voluptuous
-Version:	0.15.2
+Version:	0.16.0
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/voluptuous/
 Source0:	https://files.pythonhosted.org/packages/source/v/voluptuous/voluptuous-%{version}.tar.gz
-# Source0-md5:	d963b2b4f3f2c6489e85f32605418964
+# Source0-md5:	3bb077be35ff17fc7b41ed3ab5856281
 URL:		https://pypi.org/project/voluptuous/
 BuildRequires:	python3-modules >= 1:3.9
 BuildRequires:	python3-setuptools
